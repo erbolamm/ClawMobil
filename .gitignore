@@ -1,0 +1,25 @@
+# ClawMobilApp - Public Website
+# Exclude everything by default
+/*
+
+# Allow specific web files
+!/index.html
+!/empezar.html
+!/guia.html
+!/favicon.png
+!/assets/
+!/public/
+!/docs/
+!/.gitignore
+!/README.md
+
+# Keep common media if they are in the root
+!/*.png
+!/*.jpg
+!/*.gif
+
+# Ensure git itself is ignored (though usually implied)
+.git/
+node_modules/
+.DS_Store
+*.log
