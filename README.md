@@ -231,6 +231,12 @@ Ho costruito questo progetto da solo, imparando a programmare da zero da aprile 
 Se ClawMobil ti è utile, condividilo. Ogni persona che lo scopre è una vittoria. E se vuoi sostenere lo sviluppo, un caffè aiuta sempre. ❤️
 </details>
 
+## 💥 Compártelo. Que se entere todo el mundo.
+
+Un español está creando una app para que CUALQUIER móvil viejo se convierta en una IA privada. Sin big tech, sin suscripciones, sin datos en la nube. **Compártelo y haz que llegue a quien lo necesite.**
+
+[𝕏 Twitter / X](https://twitter.com/intent/tweet?text=🦞%20ClawMobil%20—%20Convierte%20cualquier%20móvil%20viejo%20en%20un%20servidor%20de%20IA%20personal.%20Sin%20cloud,%20sin%20suscripciones,%20100%25%20local%20y%20gratuito.%20https://erbolamm.github.io/ClawMobil/%20%23ClawMobil%20@erbolamm) · [💼 LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://erbolamm.github.io/ClawMobil/) · [💬 WhatsApp](https://api.whatsapp.com/send?text=🦞%20ClawMobil%20—%20Convierte%20cualquier%20móvil%20viejo%20en%20un%20servidor%20de%20IA%20personal.%20https://erbolamm.github.io/ClawMobil/) · [✈️ Telegram](https://t.me/share/url?url=https://erbolamm.github.io/ClawMobil/&text=🦞%20ClawMobil%20—%20Tu%20móvil%20viejo,%20tu%20IA%20privada.) · [🟠 Reddit](https://reddit.com/submit?url=https://erbolamm.github.io/ClawMobil/&title=ClawMobil%20—%20Convierte%20cualquier%20móvil%20viejo%20en%20un%20servidor%20de%20IA%20personal) · [🔵 Facebook](https://www.facebook.com/sharer/sharer.php?u=https://erbolamm.github.io/ClawMobil/) · [🧵 Threads](https://threads.net/intent/post?text=🦞%20ClawMobil%20—%20Convierte%20cualquier%20móvil%20viejo%20en%20un%20servidor%20de%20IA%20personal.%20https://erbolamm.github.io/ClawMobil/) · [📧 Email](mailto:?subject=ClawMobil%20—%20Tu%20móvil%20viejo,%20tu%20IA%20privada&body=Mira%20este%20proyecto:%20https://erbolamm.github.io/ClawMobil/)
+
 ## 💖 Apoya el proyecto
 
 Herramienta gratuita y open source. Si te ahorra tiempo, un café ayuda a mantener el desarrollo.
