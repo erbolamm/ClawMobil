@@ -161,29 +161,92 @@ ClawMobil/
 │           └── ...
 ```
 
+## Autor
+
+Javier Mateo (ApliArte) — [github.com/erbolamm](https://github.com/erbolamm)
+
+## 💬 Una nota personal del autor / A personal note from the author
+
+ℹ️ Nota: El texto siguiente es un mensaje personal del autor, escrito en varios idiomas para que pueda leerlo gente de todo el mundo. Esto no implica que el proyecto tenga soporte funcional completo en esos idiomas.
+
+ℹ️ Note: The text below is a personal message from the author, written in several languages so people around the world can read it. This does not imply full multilingual feature support in those languages.
+
+<details>
+<summary>🇪🇸 Español</summary>
+
+ClawMobil nació de una idea simple: los móviles viejos no deberían acabar en un cajón. Millones de dispositivos con procesadores capaces se quedan olvidados porque ya no reciben actualizaciones. Yo quise darles una segunda vida convirtiéndolos en servidores de inteligencia artificial personales.
+
+Este proyecto lo construí solo, aprendiendo a programar desde cero desde abril de 2023. No hay empresa detrás, no hay inversores, no hay equipo de marketing. Solo un programador español que cree que la tecnología debe ser accesible para todos.
+
+Si ClawMobil te resulta útil, compártelo. Cada persona que lo descubre es una victoria. Y si quieres apoyar el desarrollo, un café siempre ayuda. ❤️
+</details>
+
+<details>
+<summary>🇬🇧 English</summary>
+
+ClawMobil was born from a simple idea: old phones shouldn't end up abandoned in a drawer. Millions of devices with capable processors are forgotten because they no longer receive updates. I wanted to give them a second life by turning them into personal AI servers.
+
+I built this project alone, learning to code from scratch since April 2023. There's no company behind it, no investors, no marketing team. Just a Spanish developer who believes technology should be accessible to everyone.
+
+If ClawMobil is useful to you, share it. Every person who discovers it is a win. And if you'd like to support development, a coffee always helps. ❤️
+</details>
+
+<details>
+<summary>🇧🇷 Português</summary>
+
+ClawMobil nasceu de uma ideia simples: celulares antigos não deveriam acabar esquecidos numa gaveta. Milhões de dispositivos com processadores capazes ficam abandonados porque não recebem mais atualizações. Eu quis dar a eles uma segunda vida, transformando-os em servidores pessoais de inteligência artificial.
+
+Construí este projeto sozinho, aprendendo a programar do zero desde abril de 2023. Não há empresa por trás, nem investidores, nem equipe de marketing. Apenas um programador espanhol que acredita que a tecnologia deve ser acessível para todos.
+
+Se ClawMobil for útil para você, compartilhe. Cada pessoa que descobre é uma vitória. E se quiser apoiar o desenvolvimento, um café sempre ajuda. ❤️
+</details>
+
+<details>
+<summary>🇫🇷 Français</summary>
+
+ClawMobil est né d'une idée simple : les vieux téléphones ne devraient pas finir oubliés dans un tiroir. Des millions d'appareils dotés de processeurs performants sont abandonnés parce qu'ils ne reçoivent plus de mises à jour. J'ai voulu leur donner une seconde vie en les transformant en serveurs d'intelligence artificielle personnels.
+
+J'ai construit ce projet seul, en apprenant à programmer à partir de zéro depuis avril 2023. Il n'y a pas d'entreprise derrière, pas d'investisseurs, pas d'équipe marketing. Juste un développeur espagnol qui croit que la technologie doit être accessible à tous.
+
+Si ClawMobil vous est utile, partagez-le. Chaque personne qui le découvre est une victoire. Et si vous souhaitez soutenir le développement, un café aide toujours. ❤️
+</details>
+
+<details>
+<summary>🇩🇪 Deutsch</summary>
+
+ClawMobil entstand aus einer einfachen Idee: Alte Handys sollten nicht vergessen in einer Schublade enden. Millionen von Geräten mit leistungsfähigen Prozessoren werden aufgegeben, weil sie keine Updates mehr erhalten. Ich wollte ihnen ein zweites Leben geben, indem ich sie in persönliche KI-Server verwandle.
+
+Ich habe dieses Projekt alleine aufgebaut und seit April 2023 von Grund auf programmieren gelernt. Es gibt kein Unternehmen dahinter, keine Investoren, kein Marketing-Team. Nur ein spanischer Entwickler, der glaubt, dass Technologie für alle zugänglich sein sollte.
+
+Wenn ClawMobil für dich nützlich ist, teile es. Jede Person, die es entdeckt, ist ein Gewinn. Und wenn du die Entwicklung unterstützen möchtest, hilft ein Kaffee immer. ❤️
+</details>
+
+<details>
+<summary>🇮🇹 Italiano</summary>
+
+ClawMobil è nato da un'idea semplice: i vecchi telefoni non dovrebbero finire dimenticati in un cassetto. Milioni di dispositivi con processori capaci vengono abbandonati perché non ricevono più aggiornamenti. Ho voluto dar loro una seconda vita trasformandoli in server di intelligenza artificiale personali.
+
+Ho costruito questo progetto da solo, imparando a programmare da zero da aprile 2023. Non c'è un'azienda dietro, non ci sono investitori, non c'è un team di marketing. Solo un programmatore spagnolo che crede che la tecnologia debba essere accessibile a tutti.
+
+Se ClawMobil ti è utile, condividilo. Ogni persona che lo scopre è una vittoria. E se vuoi sostenere lo sviluppo, un caffè aiuta sempre. ❤️
+</details>
+
 ## 💖 Apoya el proyecto
 
-Si ClawMobil te resulta útil, comparte tu experiencia en redes con **#ClawMobil** etiquetando a **@erbolamm**.
+Herramienta gratuita y open source. Si te ahorra tiempo, un café ayuda a mantener el desarrollo.
 
-- **PayPal**: [paypal.me/erbolamm](https://www.paypal.com/paypalme/erbolamm)
-- **Ko-fi**: [![Ko-fi](https://storage.ko-fi.com/cdn/kofi5.png?v=6)](https://ko-fi.com/C0C11TWR1K)
+| Plataforma | Enlace |
+| ----------- | -------- |
+| PayPal | [paypal.me/erbolamm](https://www.paypal.com/paypalme/erbolamm) |
+| Ko-fi | [ko-fi.com/C0C11TWR1K](https://ko-fi.com/C0C11TWR1K) |
+| Twitch Tip | [streamelements.com/apliarte/tip](https://streamelements.com/apliarte/tip) |
 
-## 🌐 ¿Quieres tu propio servidor para el bot?
+🌐 [Sitio Oficial](https://erbolamm.github.io/ClawMobil/) · 📦 [GitHub](https://github.com/erbolamm/ClawMobil)
 
-ClawMobil funciona en un móvil viejo, pero si quieres un bot 24/7 en la nube (como @ApliArteBot), necesitas un VPS. Yo uso **Hostinger** y estoy encantado.
+## Licencia
 
-Mi consejo: abre tu IA favorita y dile exactamente esto:
+MIT — © 2026 ApliArte
 
-> *"Quiero montar un servidor para un bot de Telegram con IA. Hazme 100 preguntas en bloques de 3 para entender exactamente qué necesito antes de recomendarme nada."*
+## About
 
-Así te aseguras de que la IA entiende TU caso antes de recomendarte algo. Filosofía Steve Jobs: **Ganar-Ganar** — tú ganas el servidor perfecto para ti, yo gano una pequeña comisión que me ayuda a seguir manteniendo ClawMobil.
-
-👉 **[Contratar Hostinger con mi referido](https://www.hostinger.com/es?REFERRALCODE=APLIARTE)** — Desde 2,99€/mes con VPS incluido.
-
-## 🛡️ Licencia
-
-© 2026 [ApliArte](https://apliarte.com). Código abierto.
-¡Transforma tus antiguos móviles en servidores IA!
-
----
-**Hecho con ❤️ por [ApliArte](https://apliarte.com)** · [@erbolamm](https://github.com/erbolamm)
+Convierte cualquier móvil Android viejo en un servidor de IA personal. Sin cloud, sin suscripciones, 100% local y gratuito.
